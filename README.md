@@ -30,7 +30,7 @@
 
 - **git branch** -показывает имеющиеся векти
 - **git branch -v** -список веток с последними коммитами
-- **git branch <new brancName>** -СОЗДАНИЕ новую ветку безе перехода в нее
+- **git branch** <new brancName> -СОЗДАНИЕ новую ветку безе перехода в нее
 
 - **git switch <secondBrancName>** - !!! ПЕРЕКЛЮЧЕНИЕ переходим на другую ветку (NEW COMMAND)
 - **git checkout <secondBrancName>** - переходим на другую ветку (OLD COMMAND)
